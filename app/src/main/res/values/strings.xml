@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Afternoon Activity</string>
+    <string-array name="contacts">
+        <item>Maryanne</item>
+        <item>Francis</item>
+        <item>Sake</item>
+        <item>Martha</item>
+        <item>Jesse</item>
+        <item>Moses</item>
+    </string-array>
+</resources>
